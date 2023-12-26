@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/458522/screenshots/2755496/navitome_illustration_no.3.jpg">
 - 🔭 I’m currently working on Freelance projects
 
-- 💬 Ask me about **Dart, Flutter**
+- 💬 Ask me about **Dart, Flutter,C#,SQL Server,.Net**
 
 - 📫 How to reach me **muhammedrezk181@gmail.com**
 
